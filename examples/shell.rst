@@ -6,7 +6,7 @@ is ready to begin to be your playground to develop full applications.
 
 Starting the shell maybe different depending on what operating system you
 are on. If you are on Windows there should be a shortcut on your desktop.
-On Mac or Ubuntu you should just be able to type ``simplecv`` from the shell.::
+On Mac or Linux you should just be able to type ``simplecv`` from the shell.::
 
     $ simplecv
 
